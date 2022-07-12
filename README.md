@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HamaHs
+- 👋 Hi, I’m Bohdan
 - 👀 I’m interested in learn something new for example Python, JS, CSS, HTML and more.
-- 🌱 I’m currently learning CSS and HTML
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning CSS, HTML and JS.
+- 💞️ I’m looking to collaborate on new team or company.
 - 📫 How to reach me? You can write me a massage in Telegram @HamaHss
 
 <!---
