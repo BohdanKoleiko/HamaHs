@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bohdan
 - I like studying so do it all the time.
 - I’m currently learning everything I need to work as a frontend developer and already have started to learn JS.
-- I already know HTML, CSS, Bootstrap, gulp, Figma.
+- I already know HTML, CSS, Bootstrap, gulp and Figma.
 - I’m looking to collaborate on new team or company.
 - 📫 How to reach me? You can write me a massage in Telegram @HamaHss or email: bogdankol@icloud.com
 
