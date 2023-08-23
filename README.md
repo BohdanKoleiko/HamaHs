@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Bohdan
-- I like studying so do it all the time.
-- I’m currently learning everything I need to work as a frontend developer and already have started to learn JS.
-- I already know HTML, CSS, БЕМ, Bootstrap, Gulp and Figma.
-- I’m looking to collaborate on new teams or companies.
+- 👋 Hi, I’m Bohdan Koleiko, a Front-end developer.
 - 📫 How to reach me? You can write me on Telegram: @HamaHss or email: bogdankol@icloud.com
 
 <!---
