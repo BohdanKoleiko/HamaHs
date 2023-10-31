@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Bohdan Koleiko, a Front-end developer.
+- 👋 Hi, I’m Bohdan Koleiko, and I`m a Front-end developer.
+- I`m passionate about web development and love it great.
 - 📫 Contacts to reach me - Telegram: @HamaHss or email: bogdankol@icloud.com
 
 <!---
